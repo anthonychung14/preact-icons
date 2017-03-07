@@ -1,4 +1,4 @@
-import React from 'react';
+import {h} from 'preact';
 import decamelize from 'decamelize';
 import capitalize from 'capitalize';
 // Icon Pack

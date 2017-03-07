@@ -1,4 +1,4 @@
-import React from 'react';
+import {h} from 'preact';
 import cx from 'classnames';
 
 class App extends React.Component {

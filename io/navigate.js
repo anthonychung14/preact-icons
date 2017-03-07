@@ -1,6 +1,6 @@
 
-import React from 'react'
-import Icon from 'react-icon-base'
+import {h} from 'preact'
+import Icon from 'preact-icon-base'
 
 const IoNavigate = props => (
     <Icon viewBox="0 0 40 40" {...props}>

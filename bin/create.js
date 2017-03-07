@@ -43,8 +43,8 @@ glob(rootDir + '/icons/*/*.svg', function(err, icons) {
         }
         types[folder][name] = location;
         var component = `
-import React from 'react'
-import Icon from 'react-icon-base'
+import {h} from 'preact'
+import Icon from 'preact-icon-base'
 
 const ${name} = props => (
     <Icon viewBox="${viewBox}" {...props}>

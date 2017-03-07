@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import React from 'react';
+import {h} from 'preact';
 import { renderToStaticMarkup } from 'react-dom/server';
 import App from '../docs/components/App';
 import marky from "marky-markdown";

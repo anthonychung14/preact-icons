@@ -1,6 +1,6 @@
 
-import React from 'react'
-import Icon from 'react-icon-base'
+import {h} from 'preact'
+import Icon from 'preact-icon-base'
 
 const MdPhoneIphone = props => (
     <Icon viewBox="0 0 40 40" {...props}>
