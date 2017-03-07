@@ -1,6 +1,6 @@
 {
   "name": "preact-icons",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "svg react icons of popular icon packs using ES6 imports",
   "scripts": {
     "docs": "babel-node ./bin/generate-docs",
@@ -59,6 +59,6 @@
     "preact": "^7.2.0"
   },
   "dependencies": {
-    "preact-icon-base": "2.0.4"
+    "preact-icon-base": "2.0.5"
   }
 }
