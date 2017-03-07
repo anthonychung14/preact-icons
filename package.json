@@ -1,5 +1,5 @@
 {
-  "name": "react-icons",
+  "name": "preact-icons",
   "version": "2.2.3",
   "description": "svg react icons of popular icon packs using ES6 imports",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gorangajic/react-icons.git"
+    "url": "git+ssh://git@github.com/efflam/preact-icons.git"
   },
   "keywords": [
     "react",
@@ -22,12 +22,12 @@
     "material",
     "design"
   ],
-  "author": "Goran Gajic",
+  "author": "Efflam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gorangajic/react-icons/issues"
+    "url": "https://github.com/efflam/preact-icons/issues"
   },
-  "homepage": "https://github.com/gorangajic/react-icons#readme",
+  "homepage": "https://github.com/efflam/preact-icons#readme",
   "devDependencies": {
     "babel": "6.5.2",
     "babel-cli": "6.7.5",
